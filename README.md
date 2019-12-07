@@ -1,6 +1,9 @@
 # IPL-Predictor
 Web App that predicts IPL match winner
 
+Inputs:-
+
+![Screenshot from 2019-12-07 23-36-35](https://user-images.githubusercontent.com/36365194/70378788-8f429080-194a-11ea-86aa-8a9fbf500883.png)
+
 Output Looks Like This:-
 
-![Screenshot from 2019-12-07 23-24-07](https://user-images.githubusercontent.com/36365194/70378748-2e1abd00-194a-11ea-90f2-9aaca0f8f038.png)
